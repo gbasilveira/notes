@@ -1,7 +1,7 @@
-*Me:*
+* Me: 
 ELI5 ecrecover
 
-*ChatGPT:*
+* ChatGPT:
 `ecrecover` is a function in Ethereum's Solidity programming language and is commonly used in smart contracts. Let's break down the term into simpler parts:
 
 1. **EC**: Stands for Elliptic Curve, which is a type of mathematical curve used in cryptography.
@@ -22,10 +22,10 @@ Here's a brief explanation of how it works:
 
 In simpler terms, `ecrecover` helps Ethereum smart contracts verify that a particular transaction was indeed signed by the account claiming to send it. It's a crucial component in ensuring the security and integrity of transactions on the Ethereum blockchain.
 
-*Me:*
+* Me:
 how does it work?
 
-*ChatGPT:*
+* ChatGPT:
 Let's break down how `ecrecover` works in a bit more detail:
 
 1. **Signing a Message:**
